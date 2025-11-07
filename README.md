@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Data Science, DL
 - 📈 Mastering R: tidyverse, dplyr, Rshiny, caret, leafletjs
 - 👯 I’m looking to collaborate on GIS, Remote Sensing related projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with GeoAI
 - 📫 How to reach me: thiloshanipunajith@gmail.com
 
