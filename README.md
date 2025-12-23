@@ -1,6 +1,6 @@
 <h2> Hello there, fellow <geospatial nerds/> I'm Thilosha Nipunajith! 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif' width='100"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thilosha-nipunajith/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://thilosha.github.io/)
