@@ -15,6 +15,7 @@ My aspiration is to lead innovative geospatial projects that translate complex s
 ---
 👨‍💻 I’m currently the Manager – Geospatial Solutions Division (Spatio SDS) at SULECO (Pvt) Ltd
 🤝 I’m looking to collaborate on GIS, SDI, remote sensing, and geospatial decision-support projects  
+💬 Ask me about Deep Learning, Computer Vision, and Language Model-based QA systems   
 💬 Ask me about GNSS/LiDAR workflows, GIS app development, and spatial analytics for asset and risk management
 
 
