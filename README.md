@@ -13,10 +13,9 @@ I specialize in **GIS software application development, spatial data infrastruct
 My aspiration is to lead innovative geospatial projects that translate complex spatial data into practical tools for governments, industry, and communities, while mentoring the next generation of geospatial practitioners
 
 ---
-👨‍💻 I’m currently pursuing my PhD in Computer Science at Murdoch University, Australia  
-🤝 I’m looking to collaborate on AI, Machine Learning & NLP research projects  
-💬 Ask me about Deep Learning, Computer Vision, and Language Model-based QA systems
-
+👨‍💻 I’m currently the Manager – Geospatial Solutions Division (Spatio SDS) at SULECO (Pvt) Ltd
+🤝 I’m looking to collaborate on GIS, SDI, remote sensing, and geospatial decision-support projects  
+💬 Ask me about GNSS/LiDAR workflows, GIS app development, and spatial analytics for asset and risk management
 
 
 ###
