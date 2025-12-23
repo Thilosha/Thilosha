@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/thilosha-nipunajith/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://thilosha.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Samitha--Vidhanaarachchi-black)](https://github.com/Thilosha)
+[![GitHub](https://img.shields.io/badge/GitHub-Thilosha--Nipunajith-black)](https://github.com/Thilosha)
 
 I am a highly dedicated geospatial solutions professional with experience spanning **surveying sciences, GIS development, and applied remote sensing** in both industry and research settings.
 
